@@ -1,1 +1,18 @@
-# Hiteshjangid
+# 💫 About Me:
+👋 Hello, I'm Hitesh Kumar<br><br>Passionate Full Stack Developer | Tech Enthusiast | Problem Solver<br><br>🌐 Connect with Me<br><br>LinkedIn: linkedin.com/in/hitesh--jangid<br>Email: sutharhitesh315@gmail.com<br>💡 About Me<br>I'm on a mission to craft exceptional digital experiences through code. With in languages like C++, Java, and web technologies, I'm driven to create solutions that make an impact. As a versatile developer, I thrive in diverse tech environments and have a knack for learning new technologies quickly.<br><br>🚀 Projects that Make a Difference<br><br>School Management System: Spearheaded the development of a comprehensive system to digitize manual school operations, making processes efficient and organized.<br><br>Attendance System (Android App): Transformed attendance tracking with real-time data storage using Firebase. Empowering teachers and streamlining record-keeping.<br><br>लेन-देन (Lenaden) - Finance Management App: Designed and built an intuitive Android app that simplifies income and expense tracking, taking control of personal finances.<br><br>Academic Portal Website: Collaborated in creating a platform for easy access to academic records for both students and educators, ensuring streamlined management.<br><br>📚 Skills & Proficiency<br><br>Languages: C++, Java, HTML, CSS, JavaScript<br>RDBMS: MS SQL Server<br>Operating Systems: Windows, MacOS, Linux (Debian Based), Android<br>Tools: Android Studio, Microsoft Office, Adobe Creative Cloud<br>🌐 Let's Collaborate!<br>If you're looking for a developer who's dedicated to creating impactful solutions and contributing to dynamic teams, let's connect. Drop me a message on LinkedIn or shoot me an email at sutharhitesh315@gmail.com. Together, we can shape the future of technology!<br><br>Stay Curious, Keep Innovating! 🚀🔥
+
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hitesh-Jangid&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hitesh-Jangid&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hitesh-Jangid&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hitesh-Jangid&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
